@@ -23,12 +23,17 @@ by Alexandre Greiner | 200ADM042
 
 
 #### Inspiration
+
+For this project we had to create a Web Application using different features and tools that we learned from our "Telecommunication Software Technologies" Course such as :  GitHub, GitLab, Visualise data with D3js library, API Gateway, Amazon AWS, HTML/CSS, JavaScript, GraphQL,React.Js, Node.Js. 
+
+Basically I wanted to implement a new Chat platform for RTU students to communicate with. Indeed, with the arrival of COVID19 during my time there in Riga, we had almost no lessons at university at all and mostly online courses, zoom meetings to exchange and be mixed with international and local students. Hence the lack of proximity and social life between students, my RTU Chat Room would allow students to meet, interact and discuss in other fields than just studies and zoom chat during lessons !
+
 #### What the project does
-#### Built with
-#### How I built it
-#### Architecture
-#### DevOps
+
+RTUChat is an online cloud ChatRoom, with Google Accounts Authentification for each student, free to use and limited to a maximum of 100 connections at the same time (can be improved with sufficient further investment). Furthermore, people from all around the world can connect to this chat, hopefully it will be accessible and shared between students on ORTUS only to talk about big subjects, debates, or even help in homeworks. The project also has some rules of good behavior for a wholesome community without toxicity. "Bad words" can be traced and users that says this kind of mean language can be banned for life from this Chat Room Server.
+
+#### Project Architecture
+
 #### Challenges I ran into
 #### Accomplishments that I'm proud of
-#### What I learned
 #### What's next for my project
