@@ -17,3 +17,15 @@ by Alexandre Greiner | 200ADM042
 
 
 ![App](https://user-images.githubusercontent.com/62612245/105652801-7bdde600-5eba-11eb-8f2e-32a515a027e6.JPG)
+
+
+####Inspiration
+####What the project does
+####Built with
+####How I built it
+####Architecture
+####DevOps
+####Challenges I ran into
+####Accomplishments that I'm proud of
+####What I learned
+####What's next for my project
