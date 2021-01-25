@@ -2,7 +2,7 @@
 
 My Final Project during the course RAE411 "Telecommunications Software" at Riga Technical University 
 
-# A RTU Chat
+# "Riga Technical University Student Chat Online"
 ### Telecommunications Software Final Work
 
 A simple online chat to be used between RTU Students with React and Firebase. 
