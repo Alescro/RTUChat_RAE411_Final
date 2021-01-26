@@ -50,14 +50,14 @@ I made a query to the database for the most recent messages, if I change the dat
 #### Installation Instructions
 
 First run these lines to create an initial React Project and open it in VSCode.
-'''
+```
 npx create-react-app RTUChat
 code RTUChat
-'''
+```
 There are two extra dependencies to install (Firebase & React Firebase Hooks) :
-'''
+```
 npm install firebase react-firebase-hooks
-'''
+```
 
 Create a firebase project on their webpage : https://console.firebase.google.com/u/0/ and paste all the config in the .initializeApp section of your App.js
 
