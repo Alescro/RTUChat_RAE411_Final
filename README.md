@@ -19,7 +19,7 @@ by Alexandre Greiner | 200ADM042
 
 For this project we had to create a Web Application using different features and tools that we learned from our "Telecommunication Software Technologies" Course such as :  GitHub, GitLab, Visualise data with D3js library, API Gateway, Amazon AWS, HTML/CSS, JavaScript, GraphQL,React.Js, Node.Js. 
 
-Basically I wanted to implement a new Chat platform for RTU students to communicate with. Indeed, with the arrival of COVID19 during my time there in Riga, we had almost no lessons at university at all and mostly online courses, zoom meetings to exchange and be mixed with international and local students. Hence the lack of proximity and social life between students, my RTU Chat Room would allow students to meet, interact and discuss in other fields than just studies and zoom chat during lessons !
+Basically I wanted to implement a new Chat platform for RTU students to communicate with. Indeed, with the arrival of COVID19 during my time there in Riga, we had almost no lessons at university at all, mostly, online courses and zoom meetings to exchange and be mixed with both international and local students. Hence the lack of proximity and social life between students, my RTU Chat Room would allow students to meet, interact and discuss in other fields than just studies and zoom chat during lessons !
 
 #### What the project does
 
